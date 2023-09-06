@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @seeramrakshit. I'm a sophomore Computer Science Student in Shiv Nadar University.
+- 👋 Hi, I’m @seeramrakshit. I'm a final year Computer Science Student in Shiv Nadar University.
 - 👀 I’m interested in learning frontend and backend more likely full stack devloper.
 - 🌱 I’m currently learning Java.
 - I’m looking to collaborate on java and frontend projects.
